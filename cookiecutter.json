@@ -1,6 +1,6 @@
 {
-    "assay_name": "CHIP_Oct4_20230101",
-    "date": "20230101",
-    "owner": "Jose Samaniego",
-    "short_desc": "Test assay of RDM workshop"
+    "assay_name": "Name of the file",
+    "date": "Date of sequencing",
+    "owner": "Who performed the experiment?",
+    "short_desc": "Provide a small summary of the experiment"
 }
